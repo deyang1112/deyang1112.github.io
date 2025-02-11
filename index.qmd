@@ -1,0 +1,23 @@
+---
+---
+title: "Welcome to My Website"
+author: "Deyang Cao"
+date: "2025-02-11"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Hello, World!
+Welcome to my Quarto website.
+
+## About This Site
+This site was created using Quarto and is hosted on GitHub Pages.
+
+## Learn More
+Visit the [Quarto Documentation](https://quarto.org/docs/websites) for more details.
+
+
+
+

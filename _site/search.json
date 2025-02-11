@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "title: “Welcome to My Website” author: “Deyang Cao” date: “2025-02-11” format: html: theme: journal toc: true"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Welcome to My Website",
+    "section": "About This Site",
+    "text": "About This Site\nThis site was created using Quarto and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "index.html#learn-more",
+    "href": "index.html#learn-more",
+    "title": "Welcome to My Website",
+    "section": "Learn More",
+    "text": "Learn More\nVisit the Quarto Documentation for more details."
+  },
+  {
+    "objectID": "deyang1112.github.io/about.html",
+    "href": "deyang1112.github.io/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "deyang1112.github.io/index.html",
+    "href": "deyang1112.github.io/index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "title: “Welcome to My Website” author: “Deyang Cao” date: “2025-02-11” format: html: theme: journal toc: true"
+  },
+  {
+    "objectID": "deyang1112.github.io/index.html#about-this-site",
+    "href": "deyang1112.github.io/index.html#about-this-site",
+    "title": "Welcome to My Website",
+    "section": "About This Site",
+    "text": "About This Site\nThis site was created using Quarto and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "deyang1112.github.io/index.html#learn-more",
+    "href": "deyang1112.github.io/index.html#learn-more",
+    "title": "Welcome to My Website",
+    "section": "Learn More",
+    "text": "Learn More\nVisit the Quarto Documentation for more details."
+  }
+]
